@@ -1,0 +1,5 @@
+:root{color-scheme:light dark;--bg:light-dark(#fbfaf7,#111317);--ink:light-dark(#18191d,#ebe8e1);--mute:light-dark(#5d5f66,#a5a7ad);--red:light-dark(#cf3424,#ff6b5b);--blu:light-dark(#1f56a5,#73a6ff)}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.6 Georgia,serif}
+main{max-width:680px;margin:0 auto;padding:40px 16px}
+h1{font-weight:500;font-size:34px;line-height:1.15}h1 i{color:var(--red)}
+a{color:var(--blu)}p.m{color:var(--mute)}
